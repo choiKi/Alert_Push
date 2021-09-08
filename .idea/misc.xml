@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rlgns/AndroidStudioProjects/Alert_Push/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.26979166666666665" />
         <entry key="..\:/Users/rlgns/AndroidStudioProjects/Alert_Push/app/src/main/res/layout/activity_main.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/rlgns/AndroidStudioProjects/Alert_Push/app/src/main/res/layout/view_custom_notification.xml" value="0.25364583333333335" />
       </map>
     </option>
   </component>
